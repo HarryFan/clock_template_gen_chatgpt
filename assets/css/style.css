@@ -1,0 +1,22 @@
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.time {
+    display: flex;
+    font-size: 10vw;
+    align-items: baseline;
+}
+
+.digit {
+    margin: 0 0.2em;
+}
+
+.label {
+    margin-left: 0.2em;
+    font-size: 3vw;
+}
